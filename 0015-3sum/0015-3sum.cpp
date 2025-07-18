@@ -24,9 +24,10 @@ public:
                     l++;
                     r--;
 
+                    //evitar duplicatas
                     while(nums[l] == nums[l-1] && l < r) l++;
                     while(nums[r] == nums[r+1] && l < r) r--;
-                    
+
                 } else {
 
                     if(sum > 0) {
