@@ -1,0 +1,32 @@
+class Solution {
+public:
+    vector<vector<int>> generate(int numRows) {
+        
+        vector<vector<int>> ans;
+
+        ans.resize(numRows);
+
+        ans[0].push_back(1);
+
+        for(int i = 1; i < numRows; i++) {
+
+            vector<int>aux;
+            
+            for(int j = 0; j < i + 1; j++) {
+                
+                if(j == 0 || j == i) {
+
+                    aux.push_back(1);
+
+                } else {
+
+                    aux.push_back(ans[i-1][j] + ans[i-1][j-1]);
+                }
+            }
+
+            ans[i] = aux;
+        }
+
+        return ans;
+    }
+};
