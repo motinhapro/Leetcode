@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/motinhapro/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/motinhapro/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/motinhapro/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/motinhapro/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/motinhapro/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/motinhapro/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/motinhapro/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/motinhapro/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/motinhapro/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/motinhapro/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0647-palindromic-substrings](https://github.com/motinhapro/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/motinhapro/Leetcode/tree/master/1894-merge-strings-alternately) |
