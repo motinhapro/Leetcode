@@ -8,11 +8,9 @@ public:
 
         for(int i = 1; i < prices.size(); i++) {
 
-            ans = max(ans, prices[i] - menor);
+            menor = min(menor, prices[i]);
 
-            if(prices[i] < menor) {
-                menor = prices[i];
-            }
+            ans = max(ans, prices[i] - menor);
         }
 
         return ans;
