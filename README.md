@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/motinhapro/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/motinhapro/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/motinhapro/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/motinhapro/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/motinhapro/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/motinhapro/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/motinhapro/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motinhapro/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/motinhapro/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/motinhapro/Leetcode/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
