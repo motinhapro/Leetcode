@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/motinhapro/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/motinhapro/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/motinhapro/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/motinhapro/Leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/motinhapro/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motinhapro/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/motinhapro/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/motinhapro/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/motinhapro/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/motinhapro/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/motinhapro/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/motinhapro/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/motinhapro/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/motinhapro/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/motinhapro/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/motinhapro/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/motinhapro/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/motinhapro/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/motinhapro/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 ## Union Find
 |  |
