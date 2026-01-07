@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motinhapro/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/motinhapro/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/motinhapro/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
+| [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/motinhapro/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/motinhapro/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/motinhapro/Leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
