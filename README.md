@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/motinhapro/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/motinhapro/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/motinhapro/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -138,8 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
