@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
+| [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
+| [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/motinhapro/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/motinhapro/Leetcode/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
