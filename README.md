@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/motinhapro/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/motinhapro/Leetcode/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/motinhapro/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/motinhapro/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/motinhapro/Leetcode/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -154,4 +156,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/motinhapro/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/motinhapro/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
